@@ -1,0 +1,4 @@
+useDynLib(lnMLE)
+export(logit.normal.mle, print.logit.normal.mle)
+S3method(print, logit.normal.mle)
+

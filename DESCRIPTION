@@ -1,0 +1,9 @@
+Package: lnMLE
+Version: 1.0-2
+Title:  Logistic-Normal Model for Clustered Binary (Binomial) Data
+Depends: R (>= 1.9.0)
+Author: S original by Patrick Heagerty, ported by Bryan Comstock
+Description: only changed line below in the whole package and version; Maximum likelihood estimation for clustered binary data
+Maintainer: Bruce Swihart <bruce.swihart@gmail.com>
+License: GPL-2
+Packaged: Mon Jan 28 10:49:58 2008; install
