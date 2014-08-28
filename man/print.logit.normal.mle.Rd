@@ -19,7 +19,7 @@ minimal number of significant digits.}
 further arguments passed to or from other methods.}
 }
 \value{
-Prints a summary of class \code{logit.normal.mle}. 
+Prints a summary of class \code{logit.normal.mle}.
 }
 \section{DETAILS}{
 None.
