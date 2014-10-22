@@ -11,7 +11,7 @@ install_github("swihart/lnMLE_1.0-2")
 library(lnMLE)
 ```
 
-Then run the example from [Swihart et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/insr.12035/abstract):
+Then run the example from [Swihart et al 2014](http://onlinelibrary.wiley.com/doi/10.1111/insr.12035/abstract), which concerns relating eye impairment (1-impaired, 0-healthy) to race (White or Black).  Since each individual had two eyes measured, the data is clustered binary outcomes.  However, since no one changed race, a conditional model would have a counterfactual interpretation as opposed to a marginal model comparing the prevalence between the two races.
 
 
 ```r
